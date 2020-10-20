@@ -5,4 +5,4 @@
 
 
 - 👉🏻 I’m currently learning the whole **JavaScript** ecosystem and **UI/UX design**
-- 📫 How to reach me: adrianneccastro@gmail.com
+- 📫 How to reach me: adrianneccastro@gmail.com or https://www.linkedin.com/in/adrianne-castro/
