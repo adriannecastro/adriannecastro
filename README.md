@@ -4,13 +4,13 @@
 
 
 ## I'm passionate about technology and design!
-- 🌱 I’m currently learning UI/UX Design, JavaScript and the whole ecosystem around this technology.
-- 👯 I’m looking to collaborate on open source
+- 🌱 I’m currently learning JavaScript and the whole ecosystem around this technology.
+- 👯 I’m looking to collaborate on open source and help the community 
 - 💬 Ask me about ... anything
 - 😄 Pronouns: She/Her
 
 
-### Talk with me, I am kinda awesome:
+### Talk with me:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
