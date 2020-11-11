@@ -5,7 +5,7 @@
 
 ## I'm passionate about technology and design!
 - 🌱 I’m currently learning JavaScript and the whole ecosystem around this technology.
-- 👯 I’m looking to collaborate on open source and help the community 
+- 👯 I’m looking to collaborate on open source and help the community.
 - 💬 Ask me about ... anything
 - 😄 Pronouns: She/Her
 
