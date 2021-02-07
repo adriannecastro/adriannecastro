@@ -1,30 +1,12 @@
-### Hello World! 👋
+# Adrianne Castro 
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="420" height="320" />
 
-About me: 
-- 🌱 I’m currently learning **JavaScript**, **React**, **NodeJS** and **UI/UX design**
-- 💡 I’m looking to collaborate on open source community and helping people 
-- 💬 Ask me about... anything, but know that I am passionate about technology
+[![Twitter Badge](https://img.shields.io/badge/-@adrianneccastro-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/adrianneccastro)](https://twitter.com/adrianneccastro) 
+[![Linkedin Badge](https://img.shields.io/badge/-Adrianne%20Castro-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriannecastro/)](https://www.linkedin.com/in/adriannecastro/) 
+[![Gmail Badge](https://img.shields.io/badge/-adrianneccastro@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adrianneccastro@gmail.com)](mailto:adrianneccastro@gmail.com)
 
-Things I like to do:
-- 🎨 Interfaces
-- 🖥 Web Applications
-- 📱 Applications
+I am a Front-End Developer and a Software Engineering student. I have a great passion for technology, design and user experiences. I just love what I do.
+Passionate about **JavaScript** and I'm currently learning **ReactJS**. 
 
-## Connecting and sharing updates on:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
-<br />
-<br />
 
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=adriannecastro&show_icons=true&hide_border=true" />
-
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Adrianne Castro's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriannecastro" />
-
-[linkedin]: https://linkedin.com/in/adrianne-castro
