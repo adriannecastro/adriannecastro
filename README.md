@@ -13,7 +13,7 @@
 </a>
 
 I am a Front-End Developer and a Software Engineering student. I have a great passion for technology, design and user experiences. I just love what I do.
-Passionate about **JavaScript** and I'm currently learning **ReactJS**. 
+Passionate about JavaScript and I'm currently learning ReactJS. 
 
 
 
