@@ -15,5 +15,5 @@
 I am a Front-End Developer and a Software Engineering student. I have a great passion for technology, design and user experiences. I just love what I do.
 Passionate about JavaScript and I'm currently learning ReactJS. 
 
-
+"Every day is a new beginning take a deep breath and start again."
 
